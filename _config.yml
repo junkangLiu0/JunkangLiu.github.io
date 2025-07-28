@@ -2,6 +2,12 @@
 title: 刘俊康
 email: junkangliukk@gmail.com
 description: >- 
-  个人主页 - 刘俊康
+  个人主页 - 刘俊康 | 西安电子科技大学 | 联邦学习 | 优化算法
 baseurl: ""
 url: "https://yourusername.github.io"
+theme: minima
+
+# Social
+github_username: junkangliu
+google_scholar: https://scholar.google.com/
+linkedin_username: junkangliu
