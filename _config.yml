@@ -1,13 +1,29 @@
 
-title: 刘俊康
+title: 刘俊康 Junkang Liu
 email: junkangliukk@gmail.com
 description: >- 
-  个人主页 - 刘俊康 | 西安电子科技大学 | 联邦学习 | 优化算法
+  刘俊康的个人主页 | 天津大学 博士研究生 | 联邦学习 | 优化算法 | 大模型微调
 baseurl: ""
 url: "https://yourusername.github.io"
-theme: minima
+theme: al-folio
 
-# Social
 github_username: junkangliu
-google_scholar: https://scholar.google.com/
 linkedin_username: junkangliu
+google_scholar: https://scholar.google.com/
+
+locale: zh_CN
+
+favicon: /assets/favicon/favicon.ico
+lang: zh
+google_analytics: UA-XXXXXX-X
+
+# Enable optional modules
+collections:
+  publications:
+    output: true
+    permalink: /publications/:path/
+    sort_by: year
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-feed
