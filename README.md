@@ -1,118 +1,139 @@
+
 ---
 layout: home
-title: "刘俊康 的个人主页"
+title: 刘俊康 | Junkang Liu
+subtitle: 博士研究生 @ 天津大学 <br> 研究方向：联邦学习 | 优化算法 | 大模型高效微调
 ---
 
-![头像](fig1.jpg){: width="140" style="border-radius:50%;display:block;margin:0 auto" }
+<div style="text-align: center;">
+  <img src="/fig1.jpg" alt="avatar" width="160" style="border-radius: 50%; box-shadow: 0 0 10px rgba(0,0,0,0.15); margin-bottom: 20px;">
 
-<p align="center">
-<strong>刘俊康</strong><br>
-天津大学 · 计算机科学与技术 · 博士生<br>
-<a href="mailto:junkangliukk@gmail.com">📧 junkangliukk@gmail.com</a> | 
-<a href="https://scholar.google.com/citations?user=你的ID">谷歌学术</a> | 
-<a href="https://github.com/你的GitHub">GitHub</a>
-</p>
+  
+  <div style="margin: 10px 0;">
+    <a class="btn btn--primary" href="/assets/cv/cv_liu_junkang.pdf" target="_blank">📄 下载简历 / Download CV</a>
+    <a class="btn btn--inverse" href="mailto:junkangliukk@gmail.com">✉️ 联系我 / Email</a>
+  </div>
 
----
-
-## 🔥 最新动态
-- 2025.09 即将入学 **天津大学** 攻读博士学位  
-- 2024.12 论文《FedAdamW》被 **AAAI 2025** 接收（一作）  
-- 2024.10 荣获 **研究生国家奖学金**  
-
-## 🎯 研究方向
-- 联邦学习（通信高效、差分隐私、个性化）  
-- 大模型高效微调（LoRA / Adapter / Prompt Tuning）  
-- 优化理论（非凸、重尾分布、锐度感知最小化）
-
-## 📝 代表性论文
-（*为一作或学生一作）
-
-1. *FedBCGD：面向联邦学习的通信高效加速块坐标梯度下降*  
-   ACM Multimedia 2024（CCF A） [PDF] [代码]
-
-2. *基于动量随机控制加权平均的联邦学习泛化增强方法*  
-   ICML 2025（CCF A） [PDF]
-
-3. *结合 Nesterov 外推的锐度感知最小化广义联邦学习框架*  
-   ACM Multimedia 2025（CCF A） [PDF]
-
-4. *基于 DySAT 模型的时序动态技术融合预测：以中国 5G 通信为例*  
-   《情报科学》2023（IF=4.18，学生一作） [PDF]
-
-> 在投/再审：TIFS×2、TPAMI、NeurIPS、AAAI、TKDE 等 CCF A 类论文 5 篇。
-
-## 🏆 获奖荣誉
-- 2024 研究生国家奖学金（Top 2%）  
-- 2020 本科生国家奖学金（Top 2%）  
-- 2023 西安电子科技大学优秀研究生  
-- 2022 美国大学生数学建模竞赛 M 奖（一等奖）  
-- 2021 中国大学生数学建模竞赛全国二等奖  
-- 2020 全国大学生数学竞赛全国二等奖  
-
-## 🎓 教育背景
-- **博士（预计）** 计算机科学与技术 天津大学 2025 – 今  
-- **硕士** 计算机科学与技术 西安电子科技大学 2022 – 2025  
-- **学士** 数学与应用数学 青岛大学 2018 – 2022  
-
-## 📌 科研项目
-国家自然科学基金面上项目  
-《大规模机器学习动量加速方法的理论研究与应用》  
-参与人 2022.09 – 2024.12  
-- 设计 FedBCGD 算法，通信开销降低 3×  
-- 给出非凸目标下的收敛率与泛化界
----
-layout: home
-title: "Jun-Kang Liu | 刘俊康"
----
-
-![avatar](avatar.jpg){: width="140" style="border-radius:50%;display:block;margin:0 auto" }
-
-<p align="center">
-<strong>Jun-Kang Liu (刘俊康)</strong><br>
-Ph.D. Student, Computer Science, Tianjin University<br>
-<a href="mailto:junkangliukk@gmail.com">✉ junkangliukk@gmail.com</a> |
-<a href="https://scholar.google.com/citations?user=YOUR_ID">Scholar</a> |
-<a href="https://github.com/YOUR_GITHUB">GitHub</a>
-</p>
+  <div style="font-size: 1.2rem;">
+    <a href="https://github.com/junkangliu" target="_blank">🌐 GitHub</a> |
+    <a href="https://scholar.google.com" target="_blank">📚 Google Scholar</a>
+  </div>
+</div>
 
 ---
 
-## 🔥 News
-- **Jun 2025** Starting Ph.D. at **Tianjin University**  
-- **Dec 2024** 1 paper accepted by **AAAI 2025** (first author)  
-- **Oct 2024** Awarded **National Scholarship for Graduate Students**  
+🎓 **简介 / About Me**
 
-## 🎯 Research Interests
-- **Federated Learning**: communication efficiency, differential privacy, personalization  
-- **Efficient Fine-Tuning**: LoRA, adapters, prompt tuning for LLM / LVM  
-- **Optimization Theory**: non-convex, heavy-tailed, sharpness-aware minimization  
+我目前是 **天津大学** 计算机科学与技术专业博士研究生，硕士毕业于 **西安电子科技大学人工智能学院**。研究兴趣涵盖：
 
-## 📝 Selected Publications  
-*First author unless noted.*
+- ⚙️ 联邦学习（Federated Learning）
+- 🔐 差分隐私优化与泛化理论
+- 🧠 参数高效微调（PEFT, LoRA, BitFit 等）
+- 📉 非凸优化理论
 
-1. **FedBCGD**: Communication-Efficient Accelerated Block Coordinate Gradient Descent for Federated Learning  
- *ACM Multimedia 2024* (CCF A) [PDF] [Code]
+曾以第一作者身份在 **ICML、ACM MM 等 CCF A 类会议** 发表多篇论文。
 
-2. **Improving Generalization in FL with Heterogeneous Data via Momentum-Based Stochastic Controlled Weight Averaging**  
- *ICML 2025* (CCF A) [PDF]
+---
 
-3. **Generalized Federated Learning via Sharpness-Aware Minimization with Nesterov Extrapolation**  
- *ACM Multimedia 2025* (CCF A) [PDF]
+📫 **联系方式 / Contact**
+
+- 📧 邮箱：junkangliukk@gmail.com  
+- 🌐 GitHub：[@junkangliu](https://github.com/junkangliu)  
+- 📚 Google Scholar：[链接](https://scholar.google.com)
+  
+
+
+📰 **最新动态 / News**
+- ✉️ [2025] 向 AAAI 投稿最新成果《FedAdamW: Convergence and Generalization in FL》
+- ✉️ [2025] 向 TIFS 投稿最新成果《Finding Globally Flat Minima for DP Federated Learning》
+- ✉️ [2025] 向 TIFS 投稿最新成果《Finding Globally Flat Minima for DP Federated Learning》
+- ✅ [2025] ACM MM 论文《Generalized Federated Learning via Sharpness Aware Minimization with Nesterov Extrapolation》被接收！
+- ✅ [2025] ICML 论文《Improving Generalization in Federated Learning with Heterogeneous Data via Momentum-Based SWA》被接收！
+- 🏆 [2024] 荣获研究生国家奖学金
+- ✅ [2025] ACM MM 论文《FedBCGD: Communication-Efficient Accelerated Block Coordinate Gradient Descent for Federated Learning》被接收！
+- ✉️ [2023] 向 AAAI 与 TPAMI 投稿最新成果
+
+---
+
+💼 **研究方向 / Research Interests**
+
+- <strong>Federated Learning</strong>: 多客户端分布式建模、高效通信优化
+- <strong>Efficient Fine-tuning</strong>: 参数微调方法（LoRA, BitFit, Adapter）
+- <strong>Privacy-Preserving ML</strong>: 差分隐私机制与优化策略
+- <strong>Optimization Theory</strong>: 动量方法、泛化误差、非凸理论
+
+### 已发表论文
+
+1. **FedBCGD: Communication-Efficient Accelerated Block Coordinate Gradient Descent for Federated Learning**  
+   📌 ACM MM, 2024 · CCF A · 第一作者
+
+2. **Improving Generalization in Federated Learning with Heterogeneous Data via Momentum-Based SWA**  
+   📌 ICML, 2025 · CCF A · 第一作者
+
+3. **Generalized Federated Learning via Sharpness Aware Minimization with Nesterov Extrapolation**  
+   📌 ACM MM, 2025 · CCF A · 第一作者
 
 4. **Temporal Dynamic Technology Convergence Prediction Based on DySAT Model**  
- *Information Science* (IF=4.18, student first author) [PDF]
+   📌 情报科学, 2023 · 中文核心 · 第二作者（学生一作）
 
-*Under review: 2×TIFS, 1×TPAMI, 1×NeurIPS, 1×AAAI, 1×TKDE (all CCF A).*
+---
+### 已投或在审论文
 
-## 🎖 Honors & Awards
-- **2024**  National Scholarship (Graduate)  
-- **2020**  National Scholarship (Undergraduate)  
-- **2023**  Outstanding Graduate Student, Xidian University  
-- **2022**  M Prize, MCM/ICM  
-- **2021**  2nd Prize, China Undergraduate Mathematical Contest in Modeling  
+1. **Dynamic Differentially Private Online ADMM Algorithms**  
+   投稿至 IEEE TIFS · CCF A · SCI 一区（小修）  
+   👤 学生一作，第二作者
 
-## 📖 Education
-- **Ph.D. in Computer Science**, Tianjin University, 2025 –  
-- **M.S. in Computer Science**, Xidian University, 2022 – 2025  
-- **B.S. in Mathematics & Applied Mathematics**, Qingdao University, 2018 – 2022
+2. **Tight High-Probability Bounds for Nonconvex Heavy-Tailed Scenario**  
+   投稿至 NeurIPS · CCF A  
+   👤 学生二作
+
+3. **Finding Globally Flat Minima for DP Federated Learning**  
+   投稿至 IEEE TIFS · CCF A · SCI 一区  
+   👤 第一作者
+
+4. **IGFL: Local & Global Consistency in Federated Learning**  
+   投稿至 IEEE TPAMI · CCF A · SCI 一区  
+   👤 第一作者
+
+5. **FedAdamW: Convergence and Generalization in FL**  
+   投稿至 AAAI · CCF A  
+   👤 第一作者
+
+6. **DP Federated Learning with Laplacian**  
+   投稿至 IEEE TKDE · CCF A · SCI 一区  
+   👤 学生一作
+
+
+---
+### 教育经历
+
+- 📚 **博士（2025.06~）**  
+  天津大学 · 计算机科学与技术
+
+- 🎓 **硕士（2022.09 ~ 2025.06）**  
+  西安电子科技大学 · 人工智能学院 · 计算机科学与技术
+
+- 🎓 **本科（2018.09 ~ 2022.06）**  
+  青岛大学 · 数学与应用数学
+
+
+---
+
+### 科研项目
+
+**国自然面上项目：** 大规模机器学习动量加速方法的理论研究与应用  
+⏱ 参与时间：2022.09 ~ 2024.12  
+💼 职责：参与算法设计、实验搭建、论文撰写
+
+### 获得荣誉
+
+- 🎖 2024 年研究生国家奖学金  
+- 🎖 2020 年本科生国家奖学金  
+- 🎖 青岛大学年度十佳优秀学生  
+- 🥈 全国大学生数学竞赛 全国二等奖  
+- 🥈 全国大学生建模竞赛 全国二等奖  
+- 🥇 美国大学生数学建模竞赛 M奖
+
+
+
+如对我的研究方向感兴趣，欢迎邮件联系或学术合作！
