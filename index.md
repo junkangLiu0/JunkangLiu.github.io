@@ -45,7 +45,6 @@ subtitle: 博士研究生 @ 天津大学 <br> 研究方向：联邦学习 | 优�
 📰 **最新动态 / News**
 - ✉️ [2025] 向 AAAI 投稿最新成果《FedAdamW: Convergence and Generalization in FL》
 - ✉️ [2025] 向 TIFS 投稿最新成果《Finding Globally Flat Minima for DP Federated Learning》
-- ✉️ [2025] 向 TIFS 投稿最新成果《Finding Globally Flat Minima for DP Federated Learning》
 - ✅ [2025] ACM MM 论文《Generalized Federated Learning via Sharpness Aware Minimization with Nesterov Extrapolation》被接收！
 - ✅ [2025] ICML 论文《Improving Generalization in Federated Learning with Heterogeneous Data via Momentum-Based SWA》被接收！
 - 🏆 [2024] 荣获研究生国家奖学金
